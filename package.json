@@ -1,0 +1,21 @@
+{
+  "name": "pagedraw.sync",
+  "description": "",
+  "version": "0.0.1",
+  "author": "",
+  "contributors": [
+    {
+      "name": "Jared Pochtar",
+      "email": "jared@pagedraw.io"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Pagedraw/pagedraw-cloud9-sync"
+  },
+  "plugins": {
+    "plugin": {}
+  },
+  "categories": ["miscellaneous"],
+  "licenses": []
+}
